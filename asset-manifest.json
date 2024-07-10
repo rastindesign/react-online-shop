@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-online-shop/static/css/main.359f5fb3.css",
+    "main.js": "/react-online-shop/static/js/main.c4fdb5d4.js",
+    "static/media/shoes.jpg": "/react-online-shop/static/media/shoes.625fd3235c5ba61458d7.jpg",
+    "static/media/laptop.jpg": "/react-online-shop/static/media/laptop.8f9ccf0c185b9dcd86f7.jpg",
+    "static/media/Camera.webp": "/react-online-shop/static/media/Camera.9dc86786ad5769f14251.webp",
+    "static/media/sunglasses.webp": "/react-online-shop/static/media/sunglasses.dd84a33783df49372a2c.webp",
+    "static/media/mobile.jpg": "/react-online-shop/static/media/mobile.4867795ab73f824d03f7.jpg",
+    "index.html": "/react-online-shop/index.html",
+    "main.359f5fb3.css.map": "/react-online-shop/static/css/main.359f5fb3.css.map",
+    "main.c4fdb5d4.js.map": "/react-online-shop/static/js/main.c4fdb5d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359f5fb3.css",
+    "static/js/main.c4fdb5d4.js"
+  ]
+}
